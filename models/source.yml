@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: google_drive
+    tables:
+      - name: DB_PAINEL_RIO_COVID
+      - name: LISTINGS
+      - name: NEIGHBOURHOODS
+      - name: REVIEWS
